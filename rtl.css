@@ -1,0 +1,26 @@
+h1[dir=ltr].change{
+
+    --abs:absolute;
+    
+
+    
+     margin-left: 10px;
+     position:var(--abs) ;
+     left: 20px;
+
+    
+
+}
+h1[dir=rtl].change{
+
+    --abs:absolute;
+    
+
+    
+     margin-right: 10px;
+     position:var(--abs) ;
+     right: 20px;
+
+    
+
+}

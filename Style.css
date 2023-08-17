@@ -1,0 +1,44 @@
+a{
+    color: antiquewhite;
+}
+nav{
+    position: sticky;
+}
+.titl{
+    text-align: center;
+    margin: 10% 5%;
+    
+
+      
+}
+
+img {
+        border: 1px solid #000000;
+        border-radius: 4px;
+        padding: 5px;
+        width: 300px;
+        
+        
+        margin: 5% 5%;
+        
+        
+
+        
+     }
+
+     .flex-container {
+        display: flex;
+        align-items: baseline;
+        
+      }
+
+      @media screen and (max-width: 750px) {
+        img {
+          width: 200px;
+        }
+      }
+
+      
+  
+
+
